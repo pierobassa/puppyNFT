@@ -1,0 +1,11 @@
+{
+    "name": "ST_BERNARD",
+    "description": "An adorable ST_BERNARD pup!",
+    "image": "https://gateway.pinata.cloud/ipfs/QmQKjEJC9sM5c7zKQA27TB61nL4ASYubtFW8NVap4F78UJ",
+    "attributes": [
+        {
+            "trait_type": "cutness",
+            "value": 100
+        }
+    ]
+}

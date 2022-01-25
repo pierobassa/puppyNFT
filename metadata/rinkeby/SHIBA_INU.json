@@ -1,0 +1,11 @@
+{
+    "name": "SHIBA_INU",
+    "description": "An adorable SHIBA_INU pup!",
+    "image": "https://gateway.pinata.cloud/ipfs/QmdjRoYnPQ3Givcg46zxtECmEwA9DSMHUkiX9QcFwof19w",
+    "attributes": [
+        {
+            "trait_type": "cutness",
+            "value": 100
+        }
+    ]
+}

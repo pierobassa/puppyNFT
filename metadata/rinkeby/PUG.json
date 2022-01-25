@@ -1,0 +1,11 @@
+{
+    "name": "PUG",
+    "description": "An adorable PUG pup!",
+    "image": "https://gateway.pinata.cloud/ipfs/QmToeqbJdMxsuHaYyzgVvqxVRRH2Gi43rAtG2HaWcyxvBs",
+    "attributes": [
+        {
+            "trait_type": "cutness",
+            "value": 100
+        }
+    ]
+}
